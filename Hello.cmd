@@ -1,3 +1,3 @@
 @echo OFF
-echo Hello, Mike
+echo Hello, world
 pause
